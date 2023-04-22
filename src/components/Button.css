@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.btn__outline{
+    @apply text-center outline-none border rounded-[64px] border-[#162E3C] border-2
+}
+
+.btn__full__dark{
+    @apply bg-[#162E3C] rounded-[64px] text-center text-white outline-none
+}
+
+.btn__full__light{
+    @apply bg-[#DDF0A7] border rounded-[64px] text-center text-[#162E3C]
+}
+
+.btn__none{
+    @apply text-[#162E3C] text-center
+}
+
+.btn__small{
+    @apply px-[22px] py-[10px] text-[15px] font-normal
+}
+
+.btn__medium{
+    @apply font-bold px-[22px] py-[10px] text-[15px]
+}

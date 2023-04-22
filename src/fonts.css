@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Space-grotesk';
+    src: url("./fonts/SpaceGrotesk-Bold.ttf");
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'Space-grotesk';
+    src: url("./fonts/SpaceGrotesk-Regular.ttf");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Fraunces';
+    src: url("./fonts/Fraunces_9pt-Bold.ttf");
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'Fraunces';
+    src: url("./fonts/Fraunces_9pt-Regular.ttf");
+    font-weight: 400;
+}
